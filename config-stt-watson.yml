@@ -1,0 +1,5 @@
+audio-chunk: 8000
+audio-rate: 16000
+channels: 1
+watson-stt: {model: en-US_BroadbandModel, password: mvaYJFmYGeKp, tokenauth: null,
+  user: d0e9ad03-f1cf-442b-a7b5-13928e45be6d, timestamps: true}
